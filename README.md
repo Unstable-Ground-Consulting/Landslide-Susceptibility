@@ -2,8 +2,12 @@
 
 Protecting the community, the environment, and you.
 
+**Our Purpose**
+
+Our group focuses on the ever-changing nature of Earth's surface and how we can evaluate and predict landslides to help communities. We create landslide susceptibility models to inform communities about hazards, research impacts of landslides on communities, and unify our knowledge to better integrate civil projects and the envrionment.
+
 ```markdown
-Our Mission
+What We Do
 
 # Predict Landslide Hazards
 ## Identify Potential Causes For Landslides
