@@ -2,7 +2,6 @@
 
 Protecting the community, the environment, and you.
 
-<body>
 		<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
@@ -18,7 +17,6 @@ Protecting the community, the environment, and you.
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		
-	</body>
 
 ```markdown
 What We Do
