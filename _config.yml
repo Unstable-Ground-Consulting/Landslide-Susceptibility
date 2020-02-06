@@ -1,2 +1,4 @@
 name: Unstable Ground Consulting, Modeling Landslide Susceptibility
 markdown: kramdown
+
+theme: jekyll-theme-architect
