@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Unstable Ground, Modeling Landslide Suseptibility
 
 You can use the [editor on GitHub](https://github.com/Unstable-Ground-Consulting/Landslide-Susceptibility/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Our Purpose
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p>Our group focuses on the ever-changing nature of Earth's surface and how we can evaluate and predict landslides to help communities. We create landslide susceptibility models to inform communities about hazards, research impacts of landslides on communities, and unify our knowledge to better integrate civil projects and the envrionment. <a href="/about">Read more about our company and mission...</a></p>
 
 ```markdown
 Syntax highlighted code block
