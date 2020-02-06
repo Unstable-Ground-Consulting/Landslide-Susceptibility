@@ -1,8 +1,6 @@
 ## Unstable Ground, Modeling Landslide Suseptibility
 
-You can use the [editor on GitHub](https://github.com/Unstable-Ground-Consulting/Landslide-Susceptibility/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A consulting group created for an Advanced GIS class, designed around making models to measure landslide suseptibility in the United States and Albania. This site also designed to gather and display resources about landslides.
 
 ### Our Purpose
 
@@ -11,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+<a href="/blog">Blog</a>
 ## Header 2
 ### Header 3
 
