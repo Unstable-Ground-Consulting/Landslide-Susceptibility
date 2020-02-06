@@ -7,10 +7,10 @@ A consulting group created for an Advanced GIS class, designed around making mod
 <p>Our group focuses on the ever-changing nature of Earth's surface and how we can evaluate and predict landslides to help communities. We create landslide susceptibility models to inform communities about hazards, research impacts of landslides on communities, and unify our knowledge to better integrate civil projects and the envrionment. <a href="/about">Read more about our company and mission...</a></p>
 
 ```markdown
-Syntax highlighted code block
+### Other Pages
 
-<a href="/blog">Blog</a>
-## Header 2
+[Blog]()
+[]()
 ### Header 3
 
 - Bulleted
