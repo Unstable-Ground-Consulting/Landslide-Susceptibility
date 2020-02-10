@@ -10,14 +10,12 @@ A consulting group created for an Advanced GIS class, designed around making mod
 ### Other Pages
 
 [Blog]()
-[]()
-### Header 3
+[Articles]()
+[Models]()
+### Future Updates
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- Article reviews pertaining to Natural Hazard Assesssment
+- Breakdown of geospatial model framework
 
 **Bold** and _Italic_ and `Code` text
 
