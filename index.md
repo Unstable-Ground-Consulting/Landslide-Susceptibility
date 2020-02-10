@@ -10,6 +10,7 @@ A consulting group created for an Advanced GIS class, designed around making mod
 ### Other Pages
 
 [Blog](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/blog/)
+<a href="https://unstable-ground-consulting.github.io/Landslide-Susceptibility/blog/">Blog</a>
 [Articles]()
 [Models]()
 ### Future Updates
@@ -19,7 +20,7 @@ A consulting group created for an Advanced GIS class, designed around making mod
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link]() and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
