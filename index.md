@@ -13,6 +13,7 @@ https://unstable-ground-consulting.github.io/Landslide-Susceptibility/blog/ - au
 [Blog](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/blog/)
 [Articles]()
 [Models]()
+[GitHub](http://github.com)
 ### Future Updates
 
 - Article reviews pertaining to Natural Hazard Assesssment
