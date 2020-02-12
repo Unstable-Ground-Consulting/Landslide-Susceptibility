@@ -9,8 +9,8 @@ A consulting group created for an Advanced GIS class, designed around making mod
 ```markdown
 ### Other Pages
 
+https://unstable-ground-consulting.github.io/Landslide-Susceptibility/blog/ - automatic!
 [Blog](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/blog/)
-<a href="/blog">Blog</a></p>
 [Articles]()
 [Models]()
 ### Future Updates
