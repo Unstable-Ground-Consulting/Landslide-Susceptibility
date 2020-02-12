@@ -9,11 +9,9 @@ A consulting group created for an Advanced GIS class, designed around making mod
 ```markdown
 ### Other Pages
 
-https://unstable-ground-consulting.github.io/Landslide-Susceptibility/blog/ - automatic!
-[Blog](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/blog/)
-[Articles]()
-[Models]()
-[GitHub](http://github.com)
+**Blog** A website and organization update blog.
+**Articles** A list of articles related to Environmental Hazard Modeling, also reviewed by us.
+**Models** A breakdown on the models we use in our analysis.
 ### Future Updates
 
 - Article reviews pertaining to Natural Hazard Assesssment
@@ -23,8 +21,9 @@ https://unstable-ground-consulting.github.io/Landslide-Susceptibility/blog/ - au
 
 [Link]() and ![Image](src)
 ```
+### [Blog](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/blog/).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This is our update blog to keep interested parties up to date about the work that we are doing. We try to post weekly, so do keep up with us!
 
 ### Articles
 
@@ -32,7 +31,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Models
 
-Models.....
+Models.....[Blog](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/blog/).
 
 ### Support
 
