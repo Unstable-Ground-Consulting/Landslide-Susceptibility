@@ -25,11 +25,11 @@ A consulting group created for an Advanced GIS class, designed around making mod
 
 This is our update blog to keep interested parties up to date about the work that we are doing. We try to post weekly, so do keep up with us!
 
-### Articles
+### [Articles](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/articles/)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Unstable-Ground-Consulting/Landslide-Susceptibility/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Models
+### [Models](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/models/)
 
 Models.....[Blog](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/blog/).
 
