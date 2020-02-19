@@ -4,7 +4,7 @@ A consulting group created for an Advanced GIS class, designed around making mod
 
 ### Our Purpose
 
-<p>Our group focuses on the ever-changing nature of Earth's surface and how we can evaluate and predict landslides to help communities. We create landslide susceptibility models to inform communities about hazards, research impacts of landslides on communities, and unify our knowledge to better integrate civil projects and the envrionment. <a href="/Landslide-Susceptibility/about">Read more about our company and mission...</a></p>
+<p>Our group focuses on the ever-changing nature of Earth's surface and how we can evaluate and predict landslides to help communities. We create landslide susceptibility models to inform communities about hazards, research impacts of landslides on communities, and unify our knowledge to better integrate civil projects and the envrionment. <a href="https://unstable-ground-consulting.github.io/Landslide-Susceptibility/blog/t">Read more about our company and mission...</a></p>
 
 ```markdown
 ### Other Pages
