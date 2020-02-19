@@ -31,8 +31,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### [Models](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/models/)
 
-Models.....[Blog](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/blog/).
+Models.....
 
-### Support
+### [Ethical Dilemmas](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/ethical/)
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
