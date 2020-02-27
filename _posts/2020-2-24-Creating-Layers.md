@@ -8,6 +8,9 @@ A lot of work was done in the research and data preperation this week. A major g
 
 The DEMs aquired were through the EU's [Copernicus Land Monitering Service](https://land.copernicus.eu/). The DEMs were aquired through a tiling system so we had to figure out a way to stich the two DEMs together.
 
-ENTER MOSAIC TOOLS
-  The tool used to put the rasters together was the [_mosaic to new raster tool_](https://pro.arcgis.com/en/pro-app/tool-reference/data-management/mosaic-to-new-raster.htm) which stiches the mosaics together and creates a new feature out of them. In addition to stiching them together it also has options to deal with overlapping cells.
+[Mosaic To New Raster Tool](https://pro.arcgis.com/en/pro-app/tool-reference/data-management/mosaic-to-new-raster.htm)
+'''
+  The tool used to put the rasters together was the _mosaic to new raster tool_ which stiches the mosaics together and creates a new feature out of them. In addition to stiching them together it also has options to deal with overlapping cells.
   
+  _NOTE:_ Just be aware that you need to set the pixel type equal to what your original rasters were or else it will simplify or remove your values in the cells.
+'''
