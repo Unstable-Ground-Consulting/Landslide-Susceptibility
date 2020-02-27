@@ -11,5 +11,5 @@ title: "Models"
 Fs = -----  +  --------------------------
      tan θ     γr * H * (sin θ) * (cos θ)
 ```
-This model is designed to model the infiltration of rainfall into the landscape. 
+This model is designed to predict the infiltration of rainfall into the landscape. 
 
