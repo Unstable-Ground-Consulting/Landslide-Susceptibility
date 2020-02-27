@@ -3,10 +3,10 @@ layout: post
 title: "Creating Layers"
 date: 2020-02-24
 ---
-### Data Collection
+# Data Collection
 A lot of work was done in the research and data preperation this week. A major goal of this week was to find usable data for Albania, focusing on DEMs, boundaries, roads, and buildings.
 
-## DEMS
+### DEMS
 The DEMs aquired were through the EU's [Copernicus Land Monitering Service](https://land.copernicus.eu/). The DEMs were aquired through a tiling system so we had to figure out a way to stich the two DEMs together. After some research, we found the Mosaic to New Raster Tool which suited our purposes nicely.
 
 [Mosaic To New Raster Tool](https://pro.arcgis.com/en/pro-app/tool-reference/data-management/mosaic-to-new-raster.htm)
@@ -19,8 +19,15 @@ In addition to stiching them together it also has options to deal with overlappi
 After stitching the DEMs into one, we used the [Extract by Mask](https://pro.arcgis.com/en/pro-app/tool-reference/spatial-analyst/extract-by-mask.htm) tool using Albania's boundary to get the DEM of Albania. 
 
 ### Soil Maps
-  Aquiring Soil data for Albania was proving to be a tougher challenge than the other 
-### NEW Parameters
+  Aquiring Soil data for Albania was proving to be a tougher challenge than the other data as Albania does not have extensive GIS data that can be downloaded. We were able to aquire semi-recent soil maps in pdf form, but the rigor to hand-georeference that map would be tool long for the entirety of Albania.
+ 
+ *NOTE:* There will be a margin of error in the soil map as 
+    
+        _a.)_ The map will have to be georefernced by hand
+       
+        _b.)_ The soil data has to be transcribed from WRB to USCS in order to get the variables needed for the [CRTH model]()
+  This led us to change the scale of the project into something more manageable for the limited time we possessed.
+# NEW Parameters
 ```
 It came to our attention that for the time-frame needed 
 ```
