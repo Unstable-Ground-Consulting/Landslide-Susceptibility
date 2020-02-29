@@ -17,4 +17,4 @@ protection purposes by means of GIS and statistical
 analysis: lessons from the Province of Modena, Italy ](http://web.a.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=1&sid=fec72ab0-cec1-4c8f-a28e-6bd05127c21c%40sessionmgr4008)
 
 [Integrating physical and empirical landslide susceptibility models using generalized
-additive models](Review/Integratiing_Physical_And_Empirical_Models.md)
+additive models](https://www-sciencedirect-com.proxy.wm.edu/science/article/pii/S0169555X11001218)
