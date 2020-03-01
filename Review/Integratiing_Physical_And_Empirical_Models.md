@@ -4,6 +4,9 @@ title: "Review of Integrating physical and empirical landslide susceptibility mo
 additive models"
 ---
 
+[Integrating physical and empirical landslide susceptibility models using generalized
+additive models](https://www-sciencedirect-com.proxy.wm.edu/science/article/pii/S0169555X11001218)
+
    This article by Jason Goetz, Richard Guthrie, and Alexander Brenning is useful for us in several specific ways. The first is outlined in their introduction, “Since many of the regions that are most highly susceptible to landslides are in developing countries, it is important to develop methods that are affordable and can perform well with little data (Sidle and Ochiai, 2006).” Creating a useful landslide analysis that doesn’t require too much data could be useful in disadvantaged communities that don’t have the resources to actively create data for these analyses. 
 
    What is interesting and disappointing is that they don’t include such a disadvantaged area in their research. Instead they focus on an area of Canada, this is so they can work with more data to test the theory, but it would have been a stronger message if they could show it working in areas with little to no data. It just seems like their claiming something without showing that it can be done.
