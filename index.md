@@ -37,6 +37,6 @@ Models.....
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-### [How-To](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/How-To/)
+### [How-Tos](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/How-To/)
 
 Brief descriptions and walkthroughs on some of the tools and processes that we use in our analysis.
