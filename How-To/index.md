@@ -8,4 +8,4 @@ title: "How-to"
   For more detailed information visit ESRI's [site](https://pro.arcgis.com/en/pro-app/help/analysis/geoprocessing/modelbuilder/what-is-modelbuilder-.htm).
 
 ## What is Model Builder?
- Model Builder is a visual programming workflow within ESRI Products that acts as ...
+ Model Builder is a visual programming workflow within ESRI Products that can utilize everything within ArcPro to help create new tools that combine and utilize those assets. 
