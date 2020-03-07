@@ -14,12 +14,12 @@ The data for Albania was downloaded from [Albania GIS Home](http://gis.tpginc.ne
 The DEMs aquired were through the EU's [Copernicus Land Monitering Service](https://land.copernicus.eu/). The DEMs were aquired through a tiling system so we had to figure out a way to stich the two DEMs together. After some research, we found the Mosaic to New Raster Tool which suited our purposes nicely.
 
 [Mosaic To New Raster Tool](https://pro.arcgis.com/en/pro-app/tool-reference/data-management/mosaic-to-new-raster.htm)
-```
+
   The tool used to put the rasters together was the _mosaic to new raster tool_ which stiches the mosaics together and creates a new feature out of them. 
 In addition to stiching them together it also has options to deal with overlapping cells.
   
   NOTE:Just be aware that you need to set the pixel type equal to what your original rasters were or else it will simplify or remove your values in the cells.
-```
+  
 After stitching the DEMs into one, we used the [Extract by Mask](https://pro.arcgis.com/en/pro-app/tool-reference/spatial-analyst/extract-by-mask.htm) tool using Albania's boundary to get the DEM of Albania. 
 
 ### Soil Maps
@@ -33,17 +33,17 @@ After stitching the DEMs into one, we used the [Extract by Mask](https://pro.arc
  
  This led us to change the scale of the project into something more manageable for the limited time we possessed.
 # NEW Parameters
-```
+
 It came to our attention that for the time-frame needed the scope of our project needed to be more limited. Therefore, Instead of looking at countries at a whole we will be looking at specific cities, this also lets us get more into the ethical and cultural aspects and impacts of these maps.
 
-For the United States we will be looking at Willis, California as it is one of the cities that has had numerous landslides in the past according to the United States Landslide inventory.
+For the United States we will be looking at Willits, California as it is one of the cities that has had numerous landslides in the past according to the United States Landslide inventory.
 
 For Albania we chose the capital city of Tirana as it has important sites that the country would want to protect.
 
 For both of these we used the same scope, about a 10km buffer around each
-```
-### Willis
-For Willis all the DEM and Soil Map data was extracted to that 10km buffer. The remaining tasks are to translate the soil data from USGS and find the road and building data.
+
+### Willits
+For Willits all the DEM and Soil Map data was extracted to that 10km buffer. The remaining tasks are to translate the soil data from USGS and find the road and building data.
 
 ### Tirana
 All of the data has been extracted to that extent, buildings, DEM, Soil map, and roads. The Soil Map has been georeferenced as well as a raster created of the data set for that extent. The remaining thing to do is translate that into vaules useful for the models.
