@@ -36,3 +36,8 @@ Iterators are more for advanced Model Builder techniques and will not fully be c
 
 Utilities are other advanced techniques in Model Building that focus on the basic math and adding more python expressions to the model.
 
+![image](https://user-images.githubusercontent.com/60631222/76256831-f6f8c800-6226-11ea-91c4-63d572b84de4.png)
+
+The Logical icon focuses on creating and merging if-then statements, it offers several if-then statements for you to use.
+
+
