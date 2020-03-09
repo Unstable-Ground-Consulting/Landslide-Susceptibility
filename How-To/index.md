@@ -30,5 +30,8 @@ The Variable icon allows you to create an empty bubble that can be defined as an
 
 ![image](https://user-images.githubusercontent.com/60631222/76255633-e21b3500-6224-11ea-93b0-ad6ceda21f8e.png)
 
-Iterators are more for advanced Model Builder techniques, but its 
+Iterators are more for advanced Model Builder techniques and will not fully be covered here, but they are tools that allow one to repeat processes on data sets.
+
+![image](https://user-images.githubusercontent.com/60631222/76256125-c6645e80-6225-11ea-86c9-ea91bc58c19c.png)
+
 
