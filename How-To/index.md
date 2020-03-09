@@ -17,6 +17,9 @@ title: "How-to"
 
 Some useful new tools appear in the new Model Builder ribbon that appears. 
 
-![image](https://user-images.githubusercontent.com/60631222/76253204-9d8d9a80-6220-11ea-838d-ba297eda7537.png)
+![image](https://user-images.githubusercontent.com/60631222/76253875-d9752f80-6221-11ea-84b9-a3374be59f87.png)
 
-The tools 
+A majority of the icons in this ribbon are unique to Model Builder, but are fairly straightforward.
+
+The main section in this ribbon is the Insert section. This is where you get a majority of the variables and tools to create your model.
+
