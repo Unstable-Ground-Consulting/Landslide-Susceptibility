@@ -15,4 +15,8 @@ title: "How-to"
   
   ![image](https://user-images.githubusercontent.com/60631222/76147496-cb30e300-606a-11ea-97cf-f7ff89c21fd7.png)
 
-Some useful tools appear in the new Model Builder ribbon that appears. 
+Some useful new tools appear in the new Model Builder ribbon that appears. 
+
+![image](https://user-images.githubusercontent.com/60631222/76253204-9d8d9a80-6220-11ea-838d-ba297eda7537.png)
+
+The tools 
