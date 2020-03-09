@@ -40,4 +40,5 @@ Utilities are other advanced techniques in Model Building that focus on the basi
 
 The Logical icon focuses on creating and merging if-then statements, it offers several if-then statements for you to use.
 
+![image](https://user-images.githubusercontent.com/60631222/76257123-75ee0080-6227-11ea-84a3-e6e378f7b843.png)
 
