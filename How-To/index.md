@@ -23,3 +23,6 @@ A majority of the icons in this ribbon are unique to Model Builder, but are fair
 
 The main section in this ribbon is the Insert section. This is where you get a majority of the variables and tools to create your model.
 
+
+
+The Tool icon 
