@@ -23,6 +23,7 @@ A majority of the icons in this ribbon are unique to Model Builder, but are fair
 
 The main section in this ribbon is the Insert section. This is where you get a majority of the variables and tools to create your model.
 
+The Tool icon is a search browser of all the tools in ArcPro that can be adde into this workspace.
+![image](https://user-images.githubusercontent.com/60631222/76255007-cf543080-6223-11ea-87c5-72cac9c7b7e6.png)
 
 
-The Tool icon 
