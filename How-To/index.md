@@ -26,4 +26,9 @@ The main section in this ribbon is the Insert section. This is where you get a m
 The Tool icon is a search browser of all the tools in ArcPro that can be adde into this workspace.
 ![image](https://user-images.githubusercontent.com/60631222/76255007-cf543080-6223-11ea-87c5-72cac9c7b7e6.png)
 
+The Variable icon allows you to create an empty bubble that can be defined as any specific [data type](https://pro.arcgis.com/en/pro-app/help/analysis/geoprocessing/modelbuilder/modelbuilder-vocabulary.htm). This can be a number of different things, but are usually raster or vector data. This icon is more useful if you want variables that are unusual in nature, as you can create variables through the tool function.
+
+![image](https://user-images.githubusercontent.com/60631222/76255633-e21b3500-6224-11ea-93b0-ad6ceda21f8e.png)
+
+Iterators are more for advanced Model Builder techniques, but its 
 
