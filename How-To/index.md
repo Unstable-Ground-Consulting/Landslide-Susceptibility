@@ -34,4 +34,5 @@ Iterators are more for advanced Model Builder techniques and will not fully be c
 
 ![image](https://user-images.githubusercontent.com/60631222/76256125-c6645e80-6225-11ea-86c9-ea91bc58c19c.png)
 
+Utilities are other advanced techniques in Model Building that focus on the basic math and adding more python expressions to the model.
 
