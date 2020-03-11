@@ -15,6 +15,8 @@ title: "How-to"
   
   ![image](https://user-images.githubusercontent.com/60631222/76147496-cb30e300-606a-11ea-97cf-f7ff89c21fd7.png)
 
+### Model Builder Ribbon
+
 Some useful new tools appear in the new Model Builder ribbon that appears. 
 
 ![image](https://user-images.githubusercontent.com/60631222/76253875-d9752f80-6221-11ea-84b9-a3374be59f87.png)
@@ -41,4 +43,9 @@ Utilities are other advanced techniques in Model Building that focus on the basi
 The Logical icon focuses on creating and merging if-then statements, it offers several if-then statements for you to use.
 
 ![image](https://user-images.githubusercontent.com/60631222/76257123-75ee0080-6227-11ea-84a3-e6e378f7b843.png)
+
+The Labeling icon creates a text box that can be edited like other textboxes.
+
+### Creating A Model
+
 
