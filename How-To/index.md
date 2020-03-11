@@ -48,4 +48,7 @@ The Labeling icon creates a text box that can be edited like other textboxes.
 
 ### Creating A Model
 
+The first step to any project is to plan out what you want the tool or model to be. This is even more important when talking about Model Builder as this is how you will build this model and connect the tools together.
+
+There are 3 basic elements that you will need to be aware of that will be constantly visable. 
 
