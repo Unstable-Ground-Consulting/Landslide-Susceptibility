@@ -50,7 +50,11 @@ The Labeling icon creates a text box that can be edited like other textboxes.
 
 The first step to any project is to plan out what you want the tool or model to be. This is even more important when talking about Model Builder as this is how you will build this model and connect the tools together.
 
-There are 3 basic elements that constitute a model.
+As it is a visual method how things appear is very important. Below are just examples about how some of the icons we discussed earlier look in Model Builder. Notice that their isn't a Utilities portion as that just looks like a regular tool.
+
+![image](https://user-images.githubusercontent.com/60631222/76470610-f303ac00-63c6-11ea-9c1b-e5f2fa1cc8c8.png)
+
+There are 3 basic elements that constitute a basic model. These are the Variables, Tools, and Outputs that all have a unique color to identify them.
 
 
 
