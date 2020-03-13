@@ -76,4 +76,3 @@ Tools act just like the base tools in ArcPro, just represented visually as a yel
 
 
 ![image](https://user-images.githubusercontent.com/60631222/76627636-b85a5a80-6511-11ea-98e1-6a638df62dba.png)
-
