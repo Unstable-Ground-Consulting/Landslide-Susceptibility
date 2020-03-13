@@ -54,7 +54,13 @@ As it is a visual method how things appear is very important. Below are just exa
 
 ![image](https://user-images.githubusercontent.com/60631222/76470610-f303ac00-63c6-11ea-9c1b-e5f2fa1cc8c8.png)
 
-There are 3 basic elements that constitute a basic model. These are the Variables, Tools, and Outputs that all have a unique color to identify them.
+There are 3 basic elements that constitute a basic model. These are the Variables, Tools, and Outputs that all have a unique color to identify them. Each of these elements also come with a connector to input them into Tools, Iterators, and Logicals. These are the arrows between each shape.
+
+Variable:
+
+Variables are the blue circles that represent most commonly data layers, but also represent other data types.
 
 
+
+In addition to just being layers there is also the ability to turn these variables into parameters, which allow others to insert data into your model. This creates a pseudo-tool that can be downloaded and used by others. 
 
