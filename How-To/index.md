@@ -116,5 +116,6 @@ What are the benifits of the Model Builder if I can just run the tools seperatel
 
 Hopefully this was useful in creating your first model, there are a lot more things that can be done with models that I didn't cover here. Enviroments that can be set for the whole model, groupings that just make it look a little nicer and help explain what is going on, the Iterators and Logicals. There is so much more and if you are interested, again go to the ESRI website on [Model Builder](https://pro.arcgis.com/en/pro-app/help/analysis/geoprocessing/modelbuilder/what-is-modelbuilder-.htm).
 
-Finally here is just an example of the Critical Rainfall Model in Model Builder using Goruping to better understand the parts of the equation.
+Finally here is just an example of the Critical Rainfall Model in Model Builder using Goruping to better understand the parts of the equation. Due to most of the variables being parameters the model is pretty grey.
 
+![image](https://user-images.githubusercontent.com/60631222/76631093-7af8cb80-6517-11ea-90d7-0e105ad35efe.png)
