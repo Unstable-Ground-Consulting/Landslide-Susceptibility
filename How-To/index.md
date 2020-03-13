@@ -84,5 +84,18 @@ Tools act just like the base tools in ArcPro, just represented visually as a yel
 
 ![image](https://user-images.githubusercontent.com/60631222/76627636-b85a5a80-6511-11ea-98e1-6a638df62dba.png)
 
-Finally after connecting all the relevant information the tool will now be a yellow color and indicate that it has all the information neede to run. 
+Finally after connecting all the relevant information the tool will now be a yellow color and indicate that it has all the information needed to run. 
 
+![image](https://user-images.githubusercontent.com/60631222/76628658-76caaf00-6513-11ea-9b02-c8daf07644d5.png)
+
+Outputs:
+
+The outputs will always be a green bubble, they are variables that do not exist yet and can be connected to other tools like variables. They act exactly the same as variables, but their naming convention is just carried over from the tool's output section. Outputs will never be found on their own as they are a product of the tool.
+
+### Running the Tool
+
+Now that we have create the tool we want the next step is to check it for errors and run it. This is where we will use the Run grouping on the Model Builder Ribbon.
+
+## Why Use Model Builder?
+
+What are the benifits of the Model Builder if I can just run the tools seperately anyway? Well Model Builder is great for creating complex tasks that you want to run several times, as it automates a lot of the process through the workflow. Also it allows for easy replacement of variables if something doesn't work right. Any variable can be easily replaced at the beginning without compromising the rest of the model. Also it is sometimes easier to see the whole path laid out in a visual manner to better understand the relationships of the variables.
