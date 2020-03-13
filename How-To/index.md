@@ -73,6 +73,16 @@ Tool:
 Tools act just like the base tools in ArcPro, just represented visually as a yellow rounded rectangle with all the variable inputs and outputs turned into bubbles. Unlike Variables Tools have a lot more information before its ready to run. An easy way to figure out if the tool is ready to run is the color, if it has no color then there are still variables or settings that you have to finish before it can run.
 
 ![image](https://user-images.githubusercontent.com/60631222/76627710-e344ae80-6511-11ea-8346-23b82710c494.png)
-
+ 
+ To see what inputs are still needed you should open the tool. To do this just right click on the tool and select the Open option in the menu. It will pull up the tool as you would see it in the Geoprocessing plane.
+ 
+ ![image](https://user-images.githubusercontent.com/60631222/76627978-60702380-6512-11ea-8969-d3ba177dc173.png)
+ 
+ *NOTE:* Connectors
+ 
+ Also important in this process is how one connects the variables to the tools, when you hover over the variable you either get the move icon, represented by four directional arrows, or the hand icon. *The Hand icon* is the one that we will need to create a connector. After seeing the hand clicking and holding will create an arrow from that original spot to your mouse. Then you will hover over the tool or bubble you want to connect you and you will recieve on option window. This will tell you where in that tool your variable will fit.
 
 ![image](https://user-images.githubusercontent.com/60631222/76627636-b85a5a80-6511-11ea-98e1-6a638df62dba.png)
+
+Finally after connecting all the relevant information the tool will now be a yellow color and indicate that it has all the information neede to run. 
+
