@@ -11,5 +11,26 @@ title: "Models"
 Fs = -----  +  --------------------------
      tan θ     γr * H * (sin θ) * (cos θ)
 ```
+φ = 
+
+θ = Hillslope
+
+C = 
+
+ψt = 
+
+γw = 
+
+γr = 
+
+H =
+
+
 This model is designed to predict the infiltration of rainfall into the landscape. 
 
+[*Fequency Ratio*](https://www.mdpi.com/2073-4441/11/7/1402/pdf)
+
+
+
+
+For good breakdowns of this formula look at this [Slideshare](https://www.slideshare.net/OmarAlthuwaynee/how-to-use-bivariate-frequency-ratio-with-arcmap-and-excel-for-prediction)
