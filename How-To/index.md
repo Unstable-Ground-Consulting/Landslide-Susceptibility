@@ -108,8 +108,10 @@ After Running the model your model will look different, drop shadows are added t
 
 And done! your model has been created and the next step is to save it using the save icon. Be aware that Models actually save to your toolbox instead of a geodatabase. Thus you could compile a toolbox with all of your favorite modele to be transferred to any computer.
 
-
+![image](https://user-images.githubusercontent.com/60631222/76630410-54866080-6516-11ea-8e0f-2d6f37d2ecd1.png)
 
 ## Why Use Model Builder?
 
 What are the benifits of the Model Builder if I can just run the tools seperately anyway? Well Model Builder is great for creating complex tasks that you want to run several times, as it automates a lot of the process through the workflow. Also it allows for easy replacement of variables if something doesn't work right. Any variable can be easily replaced at the beginning without compromising the rest of the model. Also it is sometimes easier to see the whole path laid out in a visual manner to better understand the relationships of the variables. It also saves on the amount of layers that are saved as it automatically deletes the layers that are intermediates and doesn't save them to your database.
+
+Hopefully this was useful in creating your first model, there are a lot more things that can be done with models that I didn't cover here. Enviroments that can be set for the whole model, groupings that just make it look a little nicer and help explain what is going on, the Iterators and Logicals. There is so much more and if you are interested, again go to the ESRI website on [Model Builder](https://pro.arcgis.com/en/pro-app/help/analysis/geoprocessing/modelbuilder/what-is-modelbuilder-.htm).
