@@ -96,6 +96,15 @@ The outputs will always be a green bubble, they are variables that do not exist 
 
 Now that we have create the tool we want the next step is to check it for errors and run it. This is where we will use the Run grouping on the Model Builder Ribbon.
 
+![image](https://user-images.githubusercontent.com/60631222/76629321-7848a700-6514-11ea-8655-45534c79dca6.png)
+
+Both of these tools will always be used to verify and run the tool. The first step is to validate the model, this is just the computer running through the whole tool checking it for any errors that wouldn't allow it to run (i.e. if the data exists, if the data is in the right place, is the data type correct for the tool, etc.). If everything is good nothing will pop up it will also not alert you when certain tools don't have enough data that is what the color change is for.
+
+Once you have validated the model the next step is to run it. This will run the model and create the output layers in the locations specified in the tools. It will not save output layers that are put into other tools as it will assume that these layers are not the final product and are just stepping stones to other data.
+
+After Running the model your model will look different, drop shadows are added to both the tool and the output indicating that they have been ran.
+
+
 ## Why Use Model Builder?
 
-What are the benifits of the Model Builder if I can just run the tools seperately anyway? Well Model Builder is great for creating complex tasks that you want to run several times, as it automates a lot of the process through the workflow. Also it allows for easy replacement of variables if something doesn't work right. Any variable can be easily replaced at the beginning without compromising the rest of the model. Also it is sometimes easier to see the whole path laid out in a visual manner to better understand the relationships of the variables.
+What are the benifits of the Model Builder if I can just run the tools seperately anyway? Well Model Builder is great for creating complex tasks that you want to run several times, as it automates a lot of the process through the workflow. Also it allows for easy replacement of variables if something doesn't work right. Any variable can be easily replaced at the beginning without compromising the rest of the model. Also it is sometimes easier to see the whole path laid out in a visual manner to better understand the relationships of the variables. It also saves on the amount of layers that are saved as it automatically deletes the layers that are intermediates and doesn't save them to your database.
