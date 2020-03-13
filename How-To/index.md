@@ -66,3 +66,9 @@ In addition to just being layers there is also the ability to turn these variabl
 
 When you change the variable into a parameter a large uppercase P will appear in the upper right corner of the bubble.
 
+![image](https://user-images.githubusercontent.com/60631222/76627230-06229300-6511-11ea-9b9a-4eed492d8ab1.png)
+
+Tool: 
+
+Tools act just like the base tools in ArcPro, just represented visually as a yellow rounded rectangle with all the variable inputs and outputs turned into bubbles. 
+
