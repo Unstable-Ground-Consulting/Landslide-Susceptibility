@@ -104,6 +104,11 @@ Once you have validated the model the next step is to run it. This will run the 
 
 After Running the model your model will look different, drop shadows are added to both the tool and the output indicating that they have been ran.
 
+![image](https://user-images.githubusercontent.com/60631222/76630183-f6597d80-6515-11ea-8997-b6c80c295d9b.png)
+
+And done! your model has been created and the next step is to save it using the save icon. Be aware that Models actually save to your toolbox instead of a geodatabase. Thus you could compile a toolbox with all of your favorite modele to be transferred to any computer.
+
+
 
 ## Why Use Model Builder?
 
