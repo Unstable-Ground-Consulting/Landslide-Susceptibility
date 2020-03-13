@@ -60,7 +60,9 @@ Variable:
 
 Variables are the blue circles that represent most commonly data layers, but also represent other data types.
 
+In addition to just being layers there is also the ability to turn these variables into parameters, which allow others to insert data into your model. This creates a pseudo-tool that can be downloaded and used by others. To turn the variable into a parameter you right click on the bubble and use the parameter option on the menu.
 
+![image](https://user-images.githubusercontent.com/60631222/76626642-e8086300-650f-11ea-8480-6c8b9b159f5e.png)
 
-In addition to just being layers there is also the ability to turn these variables into parameters, which allow others to insert data into your model. This creates a pseudo-tool that can be downloaded and used by others. 
+When you change the variable into a parameter a large uppercase P will appear in the upper right corner of the bubble.
 
