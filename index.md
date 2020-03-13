@@ -27,15 +27,15 @@ This is our update blog to keep interested parties up to date about the work tha
 
 ### [Articles](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/articles/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Unstable-Ground-Consulting/Landslide-Susceptibility/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Articles about similar efforts around landslide susceptibility and environmental hazard prediction.
 
 ### [Models](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/models/)
 
-Models.....
+Different ways that landslide susceptibility has been captured and predicted by different people.
 
 ### [Ethical Dilemmas](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/ethical/)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+What Geoethical dilemmas exist when we start mapping the susceptibility of the landscape to landslides? How do people, corperations, and governments act when given this information. How was this information aquired? How do we as a consulting business provide useful live-saving information without injuring or disadvantaging other groups? These are just some questions that are part of the geoethics surrounding landslide susceptibility and mapping in general.
 
 ### [How-Tos](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/How-To/)
 
