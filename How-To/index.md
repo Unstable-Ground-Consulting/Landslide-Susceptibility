@@ -70,9 +70,9 @@ When you change the variable into a parameter a large uppercase P will appear in
 
 Tool: 
 
-Tools act just like the base tools in ArcPro, just represented visually as a yellow rounded rectangle with all the variable inputs and outputs turned into bubbles. 
+Tools act just like the base tools in ArcPro, just represented visually as a yellow rounded rectangle with all the variable inputs and outputs turned into bubbles. Unlike Variables Tools have a lot more information before its ready to run. An easy way to figure out if the tool is ready to run is the color, if it has no color then there are still variables or settings that you have to finish before it can run.
 
-
+![image](https://user-images.githubusercontent.com/60631222/76627710-e344ae80-6511-11ea-8346-23b82710c494.png)
 
 
 ![image](https://user-images.githubusercontent.com/60631222/76627636-b85a5a80-6511-11ea-98e1-6a638df62dba.png)
