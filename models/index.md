@@ -30,7 +30,7 @@ This model is designed to predict the infiltration of rainfall into the landscap
 
 [*Fequency Ratio*](https://www.mdpi.com/2073-4441/11/7/1402/pdf)
 
-
+Frequency Ratio is 
 
 
 For good breakdowns of this formula look at this [Slideshare](https://www.slideshare.net/OmarAlthuwaynee/how-to-use-bivariate-frequency-ratio-with-arcmap-and-excel-for-prediction)
