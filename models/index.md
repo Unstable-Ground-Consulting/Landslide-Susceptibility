@@ -11,26 +11,28 @@ title: "Models"
 Fs = -----  +  --------------------------
      tan θ     γr * H * (sin θ) * (cos θ)
 ```
-φ = 
+
+Fs= Factor of Safety
+
+φ = Internal Angle of Friction
 
 θ = Hillslope
 
-C = 
+C = Soil Cohesion
 
-ψt = 
+ψt = Pressure Head
 
-γw = 
+γw = Unit Weight of Water
 
-γr = 
+γr = Unit Weight of Soil Regolith
 
-H =
+H = Depth of Soil Regolith
 
 
 This model is designed to predict the infiltration of rainfall into the landscape. 
 
-[*Fequency Ratio*](https://www.mdpi.com/2073-4441/11/7/1402/pdf)
+[*FS*](https://www-sciencedirect-com.proxy.wm.edu/science/article/pii/S0169555X11001218)
 
-Frequency Ratio is 
-
+FS is 
 
 For good breakdowns of this formula look at this [Slideshare](https://www.slideshare.net/OmarAlthuwaynee/how-to-use-bivariate-frequency-ratio-with-arcmap-and-excel-for-prediction)
