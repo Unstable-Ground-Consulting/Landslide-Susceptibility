@@ -13,7 +13,7 @@ As with all things intent, explination, and permission are key factors in any pr
 
 ## Geoethics 
 
-Geoethics deals with the ethical, social, and cultural issues that arise out of any sort of study of the Earth's systems. These could vary from polotics, philosophy, geology, or GIS as these all change how we view or use the Earth's resources either physically or socially. Since our job is to produce a map that is designed to change how people view the area around them, with the aim to specifically warn them about potential landslide hazards, our process falls under geoethics.
+Geoethics deals with the ethical, social, and cultural issues that arise out of any sort of study of the Earth's systems. These could vary from politics, philosophy, geology, or GIS as these all change how we view or use the Earth's resources either physically or socially. Since our job is to produce a map that is designed to change how people view the area around them, with the aim to specifically warn them about potential landslide hazards, our process falls under geoethics.
 
 ## What Issues Can Arise From Our Project?
 
