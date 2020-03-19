@@ -5,7 +5,7 @@ title: "Models"
 
 ## Models Used For Landslide Susceptibility
 
-*Critical Rainfall Threshold Model* (Eq. 28, Iverson, 2000)
+### *Critical Rainfall Threshold Model* (Eq. 28, Iverson, 2000)
 ```
      tan φ       C - ψt * γw * (tan φ)
 Fs = -----  +  --------------------------
@@ -31,6 +31,6 @@ H = Depth of Soil Regolith
 
 This model is designed to predict the infiltration of rainfall into the landscape. 
 
-[*FR*](https://www.mdpi.com/2073-4441/11/7/1402)
+### [*FR*](https://www.mdpi.com/2073-4441/11/7/1402)
 
 FR is the Frequency Ratio bivariate model that focuses on the possibility of occurance for a given characteristic.
