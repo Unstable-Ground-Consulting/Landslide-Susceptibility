@@ -36,7 +36,7 @@ This model is designed to predict the infiltration of rainfall into the landscap
 FR is the Frequency Ratio bivariate model that focuses on the possibility of occurance for a given characteristic. The larger FR is the higher occurance of landslides and a higher correlation with the factors creating them, the lower the number the safer the area. 
 ```
 The Base Model
-        *FLij*
-Wij = ---------
-        FNij
+        FL ij
+W ij = ---------
+        FN ij
 ```
