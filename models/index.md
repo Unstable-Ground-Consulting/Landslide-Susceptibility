@@ -31,6 +31,6 @@ H = Depth of Soil Regolith
 
 This model is designed to predict the infiltration of rainfall into the landscape. 
 
-[*FR*](file:///C:/Users/Jacob%20Werner/Downloads/water-11-01402-v2.pdf)
+[*FR*](https://www.mdpi.com/2073-4441/11/7/1402)
 
 FR is the Frequency Ratio bivariate model that focuses on the possibility of occurance for a given characteristic.
