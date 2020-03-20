@@ -26,6 +26,10 @@ What Geoethical dilemmas exist when we start mapping the susceptibility of the l
 
 Brief descriptions and walkthroughs on some of the tools and processes that we use in our analysis.
 
+### [Coding Attempts](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/code/)
+
+Here is the source of code created for this project.
+
 ### [Maps](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/maps/)
 
 Here are the final maps of the Landslide Susceptibliity project, with the basic susceptiblity and the imact on surrounding environment.
