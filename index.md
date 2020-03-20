@@ -28,3 +28,4 @@ Brief descriptions and walkthroughs on some of the tools and processes that we u
 
 ### [Maps](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/maps/)
 
+Here are the final maps of the Landslide Susceptibliity project, with the basic susceptiblity and the imact on surrounding environment.
