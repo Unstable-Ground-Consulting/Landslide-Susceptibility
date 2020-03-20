@@ -6,21 +6,6 @@ A consulting group created for an Advanced GIS class, designed around making mod
 
 <p>Our group focuses on the ever-changing nature of Earth's surface and how we can evaluate and predict landslides to help communities. We create landslide susceptibility models to inform communities about hazards, research impacts of landslides on communities, and unify our knowledge to better integrate civil projects and the envrionment. <a href="https://unstable-ground-consulting.github.io/Landslide-Susceptibility/blog/t">Read more about our company and mission...</a></p>
 
-```markdown
-### Other Pages
-
-**Blog** A website and organization update blog.
-**Articles** A list of articles related to Environmental Hazard Modeling, also reviewed by us.
-**Models** A breakdown on the models we use in our analysis.
-### Future Updates
-
-- Article reviews pertaining to Natural Hazard Assesssment
-- Breakdown of geospatial model framework
-
-**Bold** and _Italic_ and `Code` text
-
-[Link]() and ![Image](src)
-```
 ### [Blog](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/blog/).
 
 This is our update blog to keep interested parties up to date about the work that we are doing. We try to post weekly, so do keep up with us!
@@ -40,3 +25,6 @@ What Geoethical dilemmas exist when we start mapping the susceptibility of the l
 ### [How-Tos](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/How-To/)
 
 Brief descriptions and walkthroughs on some of the tools and processes that we use in our analysis.
+
+### [Maps](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/maps/)
+
