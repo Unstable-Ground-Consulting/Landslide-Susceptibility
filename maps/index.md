@@ -5,7 +5,7 @@ title: Maps
 
 # Landslide Susceptibility Maps
 
-The Landslide Susceptibility maps are all calcualted using the Critical Rainfall Model that was covered in [another section of this website](). Each site relies on dffferent levels of data though. Tirana has less direct data for its map than Willits as some of the data had to be researched and georefrenced. Therefore its results is a little blockier and more general and Willits' data. Due to the extent the Soil Map Survey of the United States over the lack of data of Albania.
+The Landslide Susceptibility maps are all calcualted using the Critical Rainfall Model that was covered in [another section of this website](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/models/). Each site relies on dffferent levels of data though. Tirana has less direct data for its map than Willits as some of the data had to be researched and georefrenced. Therefore its results is a little blockier and more general and Willits' data. Due to the extent the Soil Map Survey of the United States over the lack of data of Albania.
 
 ## Tirana, Albania
 
