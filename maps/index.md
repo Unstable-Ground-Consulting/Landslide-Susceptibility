@@ -55,3 +55,28 @@ Due to the density of the roads we have produced a combined map as well as sever
 ### Village Roads
 
 ![image](https://user-images.githubusercontent.com/60631222/77257361-2b6a7c00-6c4a-11ea-9a71-dde1a8212a7e.png)
+
+
+## Willits, California
+
+
+
+### All Transportation
+
+![image](https://user-images.githubusercontent.com/60631222/77259124-c61c8800-6c55-11ea-873f-442cc9ec36e0.png)
+
+### US Roads
+
+![image](https://user-images.githubusercontent.com/60631222/77259141-e0eefc80-6c55-11ea-82c9-a52fde2e0c1f.png)
+
+### State Roads
+
+![image](https://user-images.githubusercontent.com/60631222/77259158-fe23cb00-6c55-11ea-8bb3-36ef6a3de1d7.png)
+
+### Common Roads
+
+![image](https://user-images.githubusercontent.com/60631222/77259165-11cf3180-6c56-11ea-9084-e35d1ce8f17e.png)
+
+### Unnamed Roads
+
+![image](https://user-images.githubusercontent.com/60631222/77259177-257a9800-6c56-11ea-8355-b6f6e023cbd9.png)
