@@ -40,3 +40,4 @@ The Base Model
 W ij = ---------
         FN ij
 ```
+W = FR = the weights
