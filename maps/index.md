@@ -7,10 +7,16 @@ title: Maps
 
 ## Tirana, Albania
 
+All of the maps done for Tirana, Albania are done in the ETRS  1989 ALBANIA 2010 projection, as recommended from the [Albanian Government's GIS portal](https://geoportal.asig.gov.al/en/help/arcgis).
+
+NOTE: Due to the issues finding an updated soil map of Albania, the soil data was gained from a 2003 soil map as described in the most recent [blog](). Therefore, the data and resolution are not equvilent to the Willits data, and needs more research to become better defined. 
+
 ![image](https://user-images.githubusercontent.com/60631222/77193460-a7cb5680-6ab4-11ea-84eb-f589a1bea24d.png)
 
 
 ## Willits, California, USA
+
+All the maps for Willits, California were done in the NAD 1983 UTM Zone 10N.
 
 ![image](https://user-images.githubusercontent.com/60631222/77193635-f547c380-6ab4-11ea-8b3f-55799dfc2acf.png)
 
