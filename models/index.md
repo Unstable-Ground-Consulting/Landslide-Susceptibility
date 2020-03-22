@@ -5,7 +5,7 @@ title: "Models"
 
 ## Models Used For Landslide Susceptibility
 
-### *Critical Rainfall Threshold Model* (Eq. 28, Iverson, 2000)
+### *Critical Rainfall Threshold Model* (Eq. 28, [Iverson, 2000](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2000WR900090))
 ```
      tan φ       C - ψt * γw * (tan φ)
 Fs = -----  +  --------------------------
