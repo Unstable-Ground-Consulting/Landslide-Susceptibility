@@ -28,7 +28,7 @@ Due to the density of the roads we have produced a combined map as well as sever
 
 ### Major Roads
 
-
+![image](https://user-images.githubusercontent.com/60631222/77257020-1c82ca00-6c48-11ea-8420-ddade0365597.png)
 
 ### National Roads
 
