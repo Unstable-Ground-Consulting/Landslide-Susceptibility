@@ -5,6 +5,8 @@ title: Maps
 
 # Landslide Susceptibility Maps
 
+The Landslide Susceptibility maps are all calcualted using the Critical Rainfall Model that was covered in [another section of this website](). Each site relies on dffferent levels of data though. Tirana has less direct data for its map than Willits as some of the data had to be researched and georefrenced. Therefore its results is a little blockier and more general and Willits' data. Due to the extent the Soil Map Survey of the United States over the lack of data of Albania.
+
 ## Tirana, Albania
 
 All of the maps done for Tirana, Albania are done in the ETRS  1989 ALBANIA 2010 projection, as recommended from the [Albanian Government's GIS portal](https://geoportal.asig.gov.al/en/help/arcgis).
@@ -59,7 +61,7 @@ Due to the density of the roads we have produced a combined map as well as sever
 
 ## Willits, California
 
-
+Similar to Tirana, the structures I will be covering in Willits are the road systems, mostly due to time issues rather than lack of data. 
 
 ### All Transportation
 
