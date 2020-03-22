@@ -20,6 +20,8 @@ title: Maps
 
 For structures we were only able to find correct data on road systems in Tirana so that is what we looked at. The roads were defined into seven catagories, National road, Railroad, Domestic Roads, Village Roads, Gravel roads, Seasonal roads, and Unclassified roads. The seasonal and unclassified roads only included one or two roads in the range we were looking at so they have been removed from the impact maps.
 
+Due to the density of the roads we have produced a combined map as well as several maps looking at the specific catagory of roads.
+
 ### All Transportation
 
 
