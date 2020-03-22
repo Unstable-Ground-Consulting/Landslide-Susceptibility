@@ -22,3 +22,27 @@ For structures we were only able to find correct data on road systems in Tirana 
 
 ### All Transportation
 
+
+
+### Major Roads
+
+
+
+### National Roads
+
+
+
+### Railroads
+
+
+
+### Domestic Roads
+
+
+
+### Gravel Roads
+
+
+
+### Village Roads
+
