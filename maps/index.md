@@ -5,13 +5,13 @@ title: Maps
 
 # Landslide Susceptibility Maps
 
-The Landslide Susceptibility maps are all calcualted using the Critical Rainfall Model that was covered in [another section of this website](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/models/). Each site relies on dffferent levels of data though. Tirana has less direct data for its map than Willits as some of the data had to be researched and georefrenced. Therefore its results is a little blockier and more general and Willits' data. Due to the extent the Soil Map Survey of the United States over the lack of data of Albania.
+For the Landslide maps we used the [Critical Rainfall Threshold Model](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/models/) on two study sites to better understand the limitations and issues that may arise with the model from different angles. The capital city of Tirana in Albania is the first site chosen. This site had several issues that the Willits site did not. Moslty it was a lack of data that was already avalible online. Therefore a lot of the data had to either be hand-crafted or calculated. This allowed for a test of the model in less than ideal circumstances and allowed for us to see what factors are heavily relied upon for the formula to work. Willits was a more ideal subject as it had a ton of data from the United States Government's departments. This allowed for a test of the model with all the data provided by expert sources.
 
 ## Tirana, Albania
 
 All of the maps done for Tirana, Albania are done in the ETRS  1989 ALBANIA 2010 projection, as recommended from the [Albanian Government's GIS portal](https://geoportal.asig.gov.al/en/help/arcgis).
 
-NOTE: Due to the issues finding an updated soil map of Albania, the soil data was gained from a 2003 soil map as described in the most recent [blog](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/blog/2020/03/13/down-to-the-wire). Therefore, the data and resolution are not equvilent to the Willits data, and needs more research to become better defined. 
+NOTE: Due to the issues finding an updated soil map of Albania, the soil data was gained from a 2001 soil map as described in the most recent [blog](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/blog/2020/03/13/down-to-the-wire). Therefore, the data and resolution are not equvilent to the Willits data, and needs more research to become better defined. 
 
 ![image](https://user-images.githubusercontent.com/60631222/77193460-a7cb5680-6ab4-11ea-84eb-f589a1bea24d.png)
 
