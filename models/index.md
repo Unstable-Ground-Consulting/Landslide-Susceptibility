@@ -35,13 +35,19 @@ Its output is called the Factor of Safety which is a number between 0-1. The clo
 
 An issue with this iteration of the formula is that there seems to be spots that become areas of no data after being put thorugh this calcuation. This creates gaps in the data that cannot be used in further analyses, which could be problematic for others who want to put these susceptibility models into more analysis. In addition this formula creates valuse far greater than the standard 0-1 for the factor of safety making the values vary greatly beyond the stated limits.
 
-### [*FR*](https://www.mdpi.com/2073-4441/11/7/1402)
+### [*The Infinite Slope Model of FS*](https://www.sciencedirect.com/science/article/pii/S0169555X11001218)
 
-FR is the Frequency Ratio bivariate model that focuses on the possibility of occurance for a given characteristic. The larger FR is the higher occurance of landslides and a higher correlation with the factors creating them, the lower the number the safer the area. 
 ```
 The Base Model
-        FL ij
-W ij = ---------
-        FN ij
+     C + cosθ * (1 − min( R/T * a/sinθ, 1) / r) * tanφ
+FS= ---------------------------------------------------
+                            sinθ
 ```
-W = FR = the weights
+C = dimensionless cohesion
+R = steady state recharge (mh^-1)
+T = Soil Transmissivity (m^2 h^-1)
+a = specific cachement area in meters, which isthe catchment area (m2) divided by the contour length or width of agrid cell (m)
+θ = local slope
+φ = friction angle describing instablility
+r = the ratio of the saturated bulk density of soil to the density of water (ρs/ρw)
+
