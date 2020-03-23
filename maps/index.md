@@ -13,8 +13,7 @@ All of the maps done for Tirana, Albania are done in the ETRS  1989 ALBANIA 2010
 
 NOTE: Due to the issues finding an updated soil map of Albania, the soil data was gained from a 2001 soil map as described in the most recent [blog](https://unstable-ground-consulting.github.io/Landslide-Susceptibility/blog/2020/03/13/down-to-the-wire). Therefore, the data and resolution are not equvilent to the Willits data, and needs more research to become better defined. 
 
-![image](https://user-images.githubusercontent.com/60631222/77193460-a7cb5680-6ab4-11ea-84eb-f589a1bea24d.png)
-
+![image](https://user-images.githubusercontent.com/60631222/77330841-472b5c00-6cf6-11ea-81e8-303203a97441.png)
 
 ## Willits, California, USA
 
