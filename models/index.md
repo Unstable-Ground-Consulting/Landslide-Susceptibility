@@ -37,17 +37,34 @@ An issue with this iteration of the formula is that there seems to be spots that
 
 ### [*The Infinite Slope Model of FS*](https://www.sciencedirect.com/science/article/pii/S0169555X11001218)
 
+Jason N. Goetz, Richard H. Guthrie, Alexander Brenning,
+Integrating physical and empirical landslide susceptibility models using generalized additive models,
+Geomorphology,
+Volume 129, Issues 3–4,
+2011,
+Pages 376-386,
+ISSN 0169-555X,
+https://doi.org/10.1016/j.geomorph.2011.03.001.
+
 ```
-The Base Model
      C + cosθ * (1 − min( R/T * a/sinθ, 1) / r) * tanφ
 FS= ---------------------------------------------------
                             sinθ
 ```
 C = dimensionless cohesion
+
 R = steady state recharge (mh^-1)
+
 T = Soil Transmissivity (m^2 h^-1)
+
 a = specific cachement area in meters, which isthe catchment area (m2) divided by the contour length or width of agrid cell (m)
+
 θ = local slope
+
 φ = friction angle describing instablility
+
 r = the ratio of the saturated bulk density of soil to the density of water (ρs/ρw)
 
+The entire section of (T/R)sinθ is the length of a hillslope required to reach saturation.
+
+Similar to the Critical Rainfall Threshold Model, the Infinite Slope Model of FS is a ratio of stabilizing forces and destabilizing forces. This equation is actually dirived from the SHALSTAB model which is the FS model combined with a hydrology model.
