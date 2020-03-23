@@ -19,7 +19,7 @@ NOTE: Due to the issues finding an updated soil map of Albania, the soil data wa
 
 All the maps for Willits, California were done in the NAD 1983 UTM Zone 10N.
 
-![image](https://user-images.githubusercontent.com/60631222/77193635-f547c380-6ab4-11ea-8b3f-55799dfc2acf.png)
+![image](https://user-images.githubusercontent.com/60631222/77330992-7e017200-6cf6-11ea-8209-b7d3bebd2b5f.png)
 
 # Impact On Structures
 
