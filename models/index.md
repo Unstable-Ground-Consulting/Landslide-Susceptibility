@@ -37,6 +37,7 @@ An issue with this iteration of the formula is that there seems to be spots that
 
 ### [*The Infinite Slope Model of FS*](https://www.sciencedirect.com/science/article/pii/S0169555X11001218)
 
+From:
 Jason N. Goetz, Richard H. Guthrie, Alexander Brenning,
 Integrating physical and empirical landslide susceptibility models using generalized additive models,
 Geomorphology,
@@ -67,4 +68,15 @@ r = the ratio of the saturated bulk density of soil to the density of water (ρs
 
 The entire section of (T/R)sinθ is the length of a hillslope required to reach saturation.
 
-Similar to the Critical Rainfall Threshold Model, the Infinite Slope Model of FS is a ratio of stabilizing forces and destabilizing forces. This equation is actually dirived from the SHALSTAB model which is the FS model combined with a hydrology model.
+Similar to the Critical Rainfall Threshold Model, the Infinite Slope Model of FS is a ratio of stabilizing forces and destabilizing forces. This equation is actually dirived from the [SHALSTAB model](https://www.sciencedirect.com/science/article/pii/S0169555X06003515) which is the FS model combined with a hydrology model. From the article by Goetz et all. FS was considered more effective in thier comparison using training data over the SHALSTAB model.
+```
+NOTE: More Information about the SHALSTAB model can be found hereC. Meisina, S. Scarabelli,
+A comparative analysis of terrain stability models for predicting shallow landslides in colluvial soils,
+Geomorphology,
+Volume 87, Issue 3,
+2007,
+Pages 207-223,
+ISSN 0169-555X,
+https://doi.org/10.1016/j.geomorph.2006.03.039.
+(http://www.sciencedirect.com/science/article/pii/S0169555X06003515)
+```
