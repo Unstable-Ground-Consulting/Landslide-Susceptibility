@@ -11,6 +11,7 @@ This was created by refrencing a tool created by Tyler Davis at William and Mary
 
 ### The Buff N Clip Tool
 
+```
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
@@ -210,3 +211,4 @@ class Buff(object):
     def updateMessages(self, parameters):
         """Modify messages from internal validation for each parameter."""
         return
+```
